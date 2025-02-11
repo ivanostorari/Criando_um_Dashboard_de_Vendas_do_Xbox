@@ -18,8 +18,5 @@ Criar um dashboard de vendas no Excel.
 
 
 
-Follow me 
-
-[MARCIO ADRIANO DA SILVA | LinkedIn](https://www.linkedin.com/in/mads1974/)
 
 

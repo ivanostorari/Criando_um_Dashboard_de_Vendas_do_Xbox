@@ -12,9 +12,6 @@ Criar um dashboard de vendas no Excel.
 
  
 
- [**Heineken - Inteligência Artificial Aplicada a Dados com Copilot**](https://www.dio.me/bootcamp/coding-the-future-heineken-ia-para-analise-de-dados)
-
- [**DIO**](https://www.dio.me/)
 
 
 
